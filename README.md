@@ -7,10 +7,10 @@ It is user friendly and just asks the user to follow step by step operations by 
 The goal of this project is to design and develop an employee management system to fill existing gaps in the electronic management of employees. 
 
 Responsibilities:
-•1)Analyzing the requirement and impact on other part of the application
-•2)	Worked closely with product owner in getting the clarification on requirements
-•	Designing view layer as per the requirements using React/ReactJS components.
-•	Implementing REST API’s and their Implementation with Spring Boot framework.
-•	Testing the REST API’s by using postman tool. 
-•	Responsible for writing Persistence layer using spring data JPA.
-•	Updating application.properties or application.yml files as per configuration.
+1)  Analyzing the requirement and impact on other part of the application
+2)	Worked closely with product owner in getting the clarification on requirements
+3)	Designing view layer as per the requirements using React/ReactJS components.
+4)	Implementing REST API’s and their Implementation with Spring Boot framework.
+5)	Testing the REST API’s by using postman tool. 
+6)	Responsible for writing Persistence layer using spring data JPA.
+7)	Updating application.properties or application.yml files as per configuration.
