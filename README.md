@@ -7,8 +7,8 @@ It is user friendly and just asks the user to follow step by step operations by 
 The goal of this project is to design and develop an employee management system to fill existing gaps in the electronic management of employees. 
 
 Responsibilities:
-•	Analyzing the requirement and impact on other part of the application
-•	Worked closely with product owner in getting the clarification on requirements
+•1)Analyzing the requirement and impact on other part of the application
+•2)	Worked closely with product owner in getting the clarification on requirements
 •	Designing view layer as per the requirements using React/ReactJS components.
 •	Implementing REST API’s and their Implementation with Spring Boot framework.
 •	Testing the REST API’s by using postman tool. 
